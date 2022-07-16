@@ -2,7 +2,7 @@
 
 This is a solution to the [Profile card component coding challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-[View the live site 🔗](https://)
+[View the live site 🔗](https://adorable-crumble-f2fb22.netlify.app/)
 
 <br>
 
